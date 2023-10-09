@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: CONFIG-SERVER-DEV
+
+server:
+  port: 18000
